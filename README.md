@@ -86,8 +86,8 @@ npm install
   - Set up environment variables for database connection, JWT secret, and Stripe keys in a .env file.
 - **Frontend**:
   - Configure the API base URL for making requests to the backend.
-    
-##Run the Application
+
+## Run the Application
 
 To start the application, use the following commands in each respective directory:
 
